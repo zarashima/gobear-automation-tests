@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Regression Test" verbose="1">
+	<listeners>
+		<listener class-name="com.aventstack.extentreports.testng.listener.ExtentITestListenerClassAdapter"></listener>
+		<listener class-name="listeners.TestListener"></listener>
+	</listeners>
+	<test name="Travel Results Stretch Tests">
+		<classes>
+			<class name="tests.TravelPageStretchTests"/>
+		</classes>
+	</test>
+</suite>
