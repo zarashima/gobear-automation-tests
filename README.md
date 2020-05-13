@@ -4,8 +4,8 @@
 Refer to [this](https://github.com/zarashima/gobear-automation-tests/wiki/Test-Plan) Wiki page for more details
 
 ## Requirements
-JDK 8+
-[Maven](https://maven.apache.org/install.html)
+* JDK 8+
+* [Maven](https://maven.apache.org/install.html)
 
 ## Framework architecture
 ![framework](https://github.com/zarashima/gobear-automation-tests/blob/master/framework-architecture.png)
