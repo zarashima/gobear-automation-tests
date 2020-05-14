@@ -6,6 +6,7 @@ Refer to [this](https://github.com/zarashima/gobear-automation-tests/wiki/Test-P
 ## Requirements
 * JDK 8+
 * [Maven](https://maven.apache.org/install.html)
+* Chrome
 
 ## Framework architecture
 ![framework](https://github.com/zarashima/gobear-automation-tests/blob/master/framework-architecture.png)
